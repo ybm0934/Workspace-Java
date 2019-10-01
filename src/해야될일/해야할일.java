@@ -22,7 +22,7 @@ package 해야될일;
 	
 	9. NetworkScoreTableServerMulti 복습
 	
-	
+	10. AJAX 강좌
 
 
 

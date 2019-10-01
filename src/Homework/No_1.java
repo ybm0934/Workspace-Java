@@ -7,7 +7,7 @@ public class No_1 {
 	public static void main(String[] args) {
 		// 8. 10개의 정수를 입력 받아 1차원 배열에 저장 한 후 0이 입력될 때까지 정수를 입력받아 10개의 정수를 저장하고 있는 1차원
 		// 배열에서 검색을 수행하여 찾았으면 해당 data의 search를 출력하고 검색을 실패하면 에러 메시지 출력하는 프로그램(linear
-		// search)
+		// search)	-- Success
 
 		Scanner sc = new Scanner(System.in);
 
