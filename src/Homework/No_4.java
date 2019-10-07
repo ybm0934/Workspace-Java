@@ -11,7 +11,7 @@ public class No_4 {
 		// 3 step : 1 2 3 5 4
 		// 4 step : 1 2 3 4 5
 		//
-		// -- Success
+		// --Success
 
 		int[] arr = new int[] { 5, 3, 1, 4, 2 };
 		int temp = 0;
